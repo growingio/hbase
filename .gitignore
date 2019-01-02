@@ -15,3 +15,5 @@ hbase-*/test
 *.iml
 *.ipr
 patchprocess/
+
+pom.xml.versionsBackup
